@@ -1,5 +1,5 @@
 # Spam-Filter
 
-Just a little email spam filter i built. 
+The model is only as accurate as the training data. 
 
 Nothing fancy.  
